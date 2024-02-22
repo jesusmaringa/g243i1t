@@ -1,3 +1,6 @@
 function aperte(){
-    alert("Alô, queridinhos da Jossyara!");
+    while(true){
+        alert("Virús detectado!");
+    }
+
 }
